@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)](https://vipulbeniwal2004.io)
+[![MasterHead]()](https://vipulbeniwal2004.io)
 <h1 align="center">Hi 👋, I'm Vipul Beniwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
