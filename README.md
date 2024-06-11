@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipulbeniwal2004&show_icons=true&locale=en" alt="vipulbeniwal2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulbeniwal2004&" alt="vipulbeniwal2004" /></p>
+
+# My LeetCode Progress
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=vipul___beniwal)
