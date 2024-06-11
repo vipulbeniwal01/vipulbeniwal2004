@@ -32,4 +32,5 @@
 
 # My LeetCode Progress
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=vipul___beniwal)
+![LeetCode Streak](https://leetcard.jacoblin.cool/vipul___beniwal?theme=dark&font=Abel&ext=heatmap)
+
