@@ -32,7 +32,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulbeniwal2004&" alt="vipulbeniwal2004" /></p>
 
 
-
-### Snake-Eating My Contribution Graph:🐍📈
-
-<img src="https://raw.githubusercontent.com/bhanupriya-art/vipulbeniwal2004/output/snake.svg" alt="Snake animation" />
