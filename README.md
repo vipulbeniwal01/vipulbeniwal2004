@@ -33,7 +33,6 @@
 
 
 
-# My LeetCode Progress
+### Snake-Eating My Contribution Graph:🐍📈
 
-![LeetCode Streak](https://leetcard.jacoblin.cool/vipul___beniwal?theme=dark&font=Abel&ext=heatmap)
-
+<img src="https://raw.githubusercontent.com/bhanupriya-art/vipulbeniwal2004/output/snake.svg" alt="Snake animation" />
